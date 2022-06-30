@@ -1,6 +1,6 @@
 //console.log('Starting to run ainebot...')
 const moment = require("moment-timezone")
-const time = moment.tz('Asia/Jakarta').format("HH:mm:ss")
+const time = moment.tz('Asia/Kalimantan Barat').format("HH:mm:ss")
 let cluster = require('cluster')
 let path = require('path')
 let fs = require('fs')
